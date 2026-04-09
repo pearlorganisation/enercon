@@ -7,8 +7,10 @@ export const blogData = [
     image: "/blog/blog1.jpg",
     author: "Jane Doe",
     date: "2024-05-12",
-    content: "A deep dive into React Server Components and how they can significantly improve your application's performance.",
-
+    content: "<h2>Why Responsive Design Matters</h2><p>In 2024, mobile traffic accounts for over 60% of all web traffic. If your site isn't responsive, you are losing more than half your potential audience. Focus on fluid grids and flexible images to ensure a seamless experience.</p>",
+    ogtag: "https://yourdomain.com/blog/blog1-og.jpg",
+    twitterCard: "summary_large_image",
+    Canonical: "https://yourdomain.com/blogs/tips-responsive-web-design-2024",
     keywords: ["web design", "responsive", "css", "mobile-first"]
   },
   {
@@ -17,9 +19,12 @@ export const blogData = [
     slug: "understanding-react-server-components",
     description: "A deep dive into React Server Components and how they can significantly improve your application's performance.",
     image: "/blog/blog2.jpg",
-    content: "A deep dive into React Server Components and how they can significantly improve your application's performance.",
     author: "John Smith",
     date: "2024-06-05",
+    content: "<h2>The Future of React</h2><p>React Server Components (RSC) allow developers to build applications that span the server and client, combining the rich interactivity of client-side apps with the improved performance of traditional server rendering.</p>",
+    ogtag: "https://yourdomain.com/blog/blog2-og.jpg",
+    twitterCard: "summary_large_image",
+    Canonical: "https://yourdomain.com/blogs/understanding-react-server-components",
     keywords: ["react", "frontend", "server-components", "web performance"]
   },
   {
@@ -30,8 +35,10 @@ export const blogData = [
     image: "/blog/blog1.jpg",
     author: "Alice Johnson",
     date: "2024-07-20",
-        content: "A deep dive into React Server Components and how they can significantly improve your application's performance.",
-
+    content: "<h2>Optimizing Metadata</h2><p>Next.js 14+ makes SEO easier than ever with the Metadata API. By defining static or dynamic metadata, you can ensure that your pages rank higher in search results with minimal effort.</p>",
+    ogtag: "https://yourdomain.com/blog/blog1-og.jpg",
+    twitterCard: "summary_large_image",
+    Canonical: "https://yourdomain.com/blogs/ultimate-guide-nextjs-seo",
     keywords: ["nextjs", "seo", "metadata", "sitemap"]
   },
   {
@@ -42,8 +49,24 @@ export const blogData = [
     image: "/blog/blog2.jpg",
     author: "Bob Wilson",
     date: "2024-08-15",
-        content: "A deep dive into React Server Components and how they can significantly improve your application's performance.",
-
+    content: "<h2>Utility-First Styling</h2><p>Tailwind CSS eliminates the need to switch between HTML and CSS files constantly. By using utility classes directly in your markup, you can prototype designs much faster.</p> <image style src ='/blog/blog1.jpg' sizes='(max-width: 800px) 100vw, 800px' className='post-image' />",
+    ogtag: "https://yourdomain.com/blog/blog2-og.jpg",
+    twitterCard: "summary_large_image",
+    Canonical: "https://yourdomain.com/blogs/mastering-tailwind-css",
     keywords: ["tailwind", "css", "ui-ux", "frontend-development"]
-  }
+  },
+  {
+    id: 5,
+    title: "Modern JavaScript Features You Should Know",
+    slug: "modern-javascript-features",
+    description: "Stay ahead of the curve by mastering the latest ECMAScript features that make your code cleaner and more efficient.",
+    image: "/blog/blog1.jpg",
+    author: "Jane Doe",
+    date: "2024-09-10",
+    content: "<h2>ES2024 and Beyond</h2><p>From optional chaining to nullish coalescing, modern JavaScript provides powerful tools to handle complex logic with much less boilerplate code.</p>",
+    ogtag: "https://yourdomain.com/blog/blog1-og.jpg",
+    twitterCard: "summary_large_image",
+    Canonical: "https://yourdomain.com/blogs/modern-javascript-features",
+    keywords: ["javascript", "es6", "web development", "coding"]
+  },
 ];

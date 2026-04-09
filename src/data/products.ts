@@ -1,7 +1,7 @@
 // ============================================================
 //  ENERCON — Central Product Literature Data
 //  Edit PDF paths, preview images, and labels here only.
-//  All product pages import from this file.
+//  All product pages import from this file.sss
 // ============================================================
 
 export interface ProductDoc {

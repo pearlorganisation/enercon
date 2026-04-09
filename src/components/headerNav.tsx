@@ -1,3 +1,4 @@
+import { BiLogInCircle } from 'react-icons/bi';
 import { FaBraille, FaImage, FaInbox, FaUsers } from 'react-icons/fa';
 
 export interface NavLeaf {
@@ -93,6 +94,12 @@ export const navItems: NavItem[] = [
     label: 'Partner with Us',
     icon: <FaUsers />,
     href: '/became-an-applicator',
+    children: null,
+  },
+  {
+    label: 'blogs',
+    icon: <BiLogInCircle />,
+    href: '/blogs',
     children: null,
   },
 ];

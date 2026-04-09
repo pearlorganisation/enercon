@@ -1,7 +1,7 @@
 export const blogData = [
   {
     id: 1,
-    title: "10 Tips for Responsive Web Design in 2024",
+    title: "100000 Tips for Responsive Web Design in 2024",
     slug: "tips-responsive-web-design-2024",
     description: "Learn how to build modern, responsive websites that look great on any device with these 10 expert tips for developers.",
     image: "/blog/blog1.jpg",

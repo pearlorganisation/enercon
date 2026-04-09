@@ -69,4 +69,17 @@ export const blogData = [
     Canonical: "https://yourdomain.com/blogs/modern-javascript-features",
     keywords: ["javascript", "es6", "web development", "coding"]
   },
+  id: 6,
+    title: "Modern JavaScript Features You Should Know",
+    slug: "modern-javascript-features",
+    description: "Stay ahead of the curve by mastering the latest ECMAScript features that make your code cleaner and more efficient.",
+    image: "/blog/blog1.jpg",
+    author: "Jane Doe",
+    date: "2024-09-10",
+    content: "<h2>ES2024 and Beyond</h2><p>From optional chaining to nullish coalescing, modern JavaScript provides powerful tools to handle complex logic with much less boilerplate code.</p>",
+    ogtag: "https://yourdomain.com/blog/blog1-og.jpg",
+    twitterCard: "summary_large_image",
+    Canonical: "https://yourdomain.com/blogs/modern-javascript-features",
+    keywords: ["javascript", "es6", "web development", "coding"]
+  },
 ];

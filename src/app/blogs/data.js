@@ -283,6 +283,8 @@ Understanding the differences in urethane vs silicone flexibility, durability, a
 For the best results, always consult professionals like Enercon Group to ensure the right system is selected and applied correctly.
 </p>
         </div>`,
+        ogtag: "https://yourdomain.com/blog/blog1-og.jpg",
+
     twitterCard: "summary_large_image",
     Canonical: "https://yourdomain.com/blogs/modern-javascript-features",
     keywords: ["javascript", "es6", "web development", "coding"]

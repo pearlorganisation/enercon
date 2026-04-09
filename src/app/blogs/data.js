@@ -69,6 +69,7 @@ export const blogData = [
     Canonical: "https://yourdomain.com/blogs/modern-javascript-features",
     keywords: ["javascript", "es6", "web development", "coding"]
   },
+  {
   id: 6,
     title: "Silicone vs Urethane Roof Coatings: Which One Is Right for Your Roof?",
     slug: "which-is-better-silicone-or-urethane-roof-coating",

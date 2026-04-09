@@ -45,5 +45,17 @@ export const blogData = [
         content: "A deep dive into React Server Components and how they can significantly improve your application's performance.",
 
     keywords: ["tailwind", "css", "ui-ux", "frontend-development"]
+  },
+  {
+    id: 5,
+    title: "Mastering Tailwind CSS for Faster UI Development",
+    slug: "mastering-tailwind-css",
+    description: "Stop writing custom CSS files. Discover how Tailwind CSS helps you build beautiful, consistent UIs faster than ever.",
+    image: "/blog/blog2.jpg",
+    author: "Bob Wilson",
+    date: "2024-08-15",
+        content: "A deep dive into React Server Components and how they can significantly improve your application's performance.",
+
+    keywords: ["tailwind", "css", "ui-ux", "frontend-development"]
   }
 ];

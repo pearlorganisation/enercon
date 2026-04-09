@@ -77,9 +77,7 @@ export const blogData = [
     image: "/blog/blog1.jpg",
     author: "enercon",
     date: "2026-04-09",
-   content: `<h1>Silicone vs Urethane Roof Coatings: Which One Is Right for Your Roof?</h1>
-<p>When it comes to protecting and extending the life of your commercial or industrial roof, choosing the right coating system is crucial. Among the most popular options available today are silicone and urethane coatings. Both offer excellent protection, but they perform differently depending on environmental conditions, roof type, and usage.</p>`
-    ogtag: "https://yourdomain.com/blog/blog1-og.jpg",
+    content: "<p>The debate around silicone vs urethane roof coatings ultimately comes down to your specific roofing needs.</p>",
     twitterCard: "summary_large_image",
     Canonical: "https://yourdomain.com/blogs/modern-javascript-features",
     keywords: ["javascript", "es6", "web development", "coding"]

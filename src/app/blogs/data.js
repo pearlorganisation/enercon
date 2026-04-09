@@ -74,7 +74,7 @@ export const blogData = [
     title: "Silicone vs Urethane Roof Coatings: Which One Is Right for Your Roof?",
     slug: "which-is-better-silicone-or-urethane-roof-coating",
     description: "Compare silicone vs urethane roof coatings. Learn key differences, benefits, and which is best for your roof with expert insights from Enercon Group.",
-    image: "/blog/blog1.jpg",
+    image: "/blog/silicone-vs-urethane-roof-coatings.jpeg",
     author: "enercon",
     date: "2026-04-09",
     content: `<div> <h1>Silicone vs Urethane Roof Coatings: Which One Is Right for Your Roof?</h1>
@@ -283,7 +283,7 @@ Understanding the differences in urethane vs silicone flexibility, durability, a
 For the best results, always consult professionals like Enercon Group to ensure the right system is selected and applied correctly.
 </p>
         </div>`,
-        ogtag: "https://yourdomain.com/blog/blog1-og.jpg",
+        ogtag: "https://yourdomain.com/blog/silicone-vs-urethane-roof-coatings.jpeg",
 
     twitterCard: "summary_large_image",
     Canonical: "https://yourdomain.com/blogs/modern-javascript-features",

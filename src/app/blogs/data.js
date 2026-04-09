@@ -30,7 +30,20 @@ export const blogData = [
     image: "/blog/blog1.jpg",
     author: "Alice Johnson",
     date: "2024-07-20",
-        content: "A deep dive into React Server Components and how they can significantly improve your application's performance.",
+       content: `
+  <h1>The Ultimate Guide to Next.js SEO</h1>
+
+  <p>Next.js applications can be highly optimized for search engines when structured correctly.</p>
+
+  <h2>What is SEO in Next.js?</h2>
+  <p>SEO (Search Engine Optimization) helps your website rank higher on Google by improving visibility.</p>
+
+  <h2>React Server Components</h2>
+  <p>A deep dive into React Server Components and how they can significantly improve your application's performance.</p>
+
+  <h2>Best Practices</h2>
+  <p>Use proper metadata, sitemap, and structured content to improve SEO.</p>
+`,
 
     keywords: ["nextjs", "seo", "metadata", "sitemap"]
   },

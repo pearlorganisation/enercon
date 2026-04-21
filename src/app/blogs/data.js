@@ -74,7 +74,7 @@ export const blogData = [
     title: "Silicone vs Urethane Roof Coatings: Which One Is Right for Your Roof?",
     slug: "which-is-better-silicone-or-urethane-roof-coating",
     description: "Compare silicone vs urethane roof coatings. Learn key differences, benefits, and which is best for your roof with expert insights from Enercon Group.",
-    image: "/blog/silicone-vs-urethane-roof-coatings.jpeg",
+    image: "/blog/silicone-vs-urethane-roof-coatings.jpg",
     author: "enercon",
     date: "2026-04-09",
     content: `<div> <h1>Silicone vs Urethane Roof Coatings: Which One Is Right for Your Roof?</h1>
@@ -294,7 +294,7 @@ For the best results, always consult professionals like Enercon Group to ensure 
     title: "ENERCON Siliconizer Crack Filler | Flexible Wall Crack Sealant USA?",
     slug: "enercon-siliconizer-crack-filler",
     description: "Discover ENERCON Siliconizer Crack Filler – a flexible, durable, and <a href="https://enercon-group.com/">waterproof wall crack sealant</a>. Ideal for concrete, plaster & brick. Easy to apply and long-lasting.",
-    image: "/blog/enercon-siliconizer-crack-filler.jpeg",
+    image: "/blog/enercon-siliconizer-crack-filler.jpg",
     author: "enercon",
     date: "2026-04-11",
     content: `<div> <h1>ENERCON Group, Located in Tampa, Florida </h1>
